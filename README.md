@@ -10,7 +10,7 @@
 
 ### 💻 Latest Projects 
 <!-- BLOG-POST-LIST:START -->
-[JOB HUNT](https://gitlab.com/ayush12345/job-hunt-capstoneproject_batch62_gr-5)
+[JOB HUNT](https://gitlab.com/ayush12345/job-hunt-capstoneproject_batch62_gr-5)<br>
 [The-Rock-Paper-Scissor-Game](https://github.com/ayushtenguriya/The-Rock-Paper-Scissor-Game)
 <!-- BLOG-POST-LIST:END -->
 
@@ -48,7 +48,7 @@
 
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayush52056&hide=contribs,issues&count_private=true" />
+  <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushtenguriya&hide=contribs,issues&count_private=true" />
   
   
 </details>
