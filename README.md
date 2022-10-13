@@ -6,7 +6,8 @@
 
 - I enjoy learning new skills and I spend a lot of my free time coding my own side fun projects.🌱
 
-- ⚡ Fun fact: I love to play video games and tech blogs.
+
+ ⚡ Fun fact: I love to play video games, watch movies and reading tech blogs.
 
 ### 💻 Latest Projects 
 <!-- BLOG-POST-LIST:START -->
