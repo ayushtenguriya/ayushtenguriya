@@ -2,7 +2,7 @@
 
 - I have completed my Bachelor of Technology (B.Tech) with Information Technology stream from the IMS Engineering College (AKTU).
 
-- I have a passion for learning and developing new skills related to programming and computer science.
+- I have a passion for learning and developing new skills related to programming and computer science.💻
 
 - I enjoy learning new skills and I spend a lot of my free time coding my own side fun projects.🌱
 
@@ -12,7 +12,7 @@
 ### 💻 Latest Projects 
 <!-- BLOG-POST-LIST:START -->
 [JOB HUNT](https://gitlab.com/ayush12345/job-hunt-capstoneproject_batch62_gr-5)<br>
-[The-Rock-Paper-Scissor-Game](https://github.com/ayushtenguriya/The-Rock-Paper-Scissor-Game)
+[The-Rock-Paper-Scissor-Game](https://github.com/ayushtenguriya/The-Rock-Paper-Scissor-Game)<br>
 [Some more project are on profile](https://github.com/ayushtenguriya?tab=repositories)
 <!-- BLOG-POST-LIST:END -->
 
