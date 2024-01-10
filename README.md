@@ -14,6 +14,7 @@
 [JOB HUNT](https://gitlab.com/ayush12345/job-hunt-capstoneproject_batch62_gr-5)<br>
 [The-Rock-Paper-Scissor-Game](https://github.com/ayushtenguriya/The-Rock-Paper-Scissor-Game)<br>
 [Some more project are on profile](https://github.com/ayushtenguriya?tab=repositories)
+Currently working on Angular Project which is <b>Resume builder</b>
 <!-- BLOG-POST-LIST:END -->
 
 
